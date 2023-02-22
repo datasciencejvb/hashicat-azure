@@ -1,0 +1,13 @@
+{
+  "data": {
+    "type":"vars",
+    "attributes": {
+      "key":"placeholder",
+      "value":"placedog.net",
+      "description":"An image placeholder URL",
+      "category":"terraform",
+      "hcl":false,
+      "sensitive":false
+    }
+  }
+}
